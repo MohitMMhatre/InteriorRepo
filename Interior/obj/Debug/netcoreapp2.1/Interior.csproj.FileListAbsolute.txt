@@ -1,0 +1,14 @@
+E:\Repos\Interior\InteriorRepo\Interior\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Repos\Interior\InteriorRepo\Interior\bin\Debug\netcoreapp2.1\Interior.deps.json
+E:\Repos\Interior\InteriorRepo\Interior\bin\Debug\netcoreapp2.1\Interior.runtimeconfig.json
+E:\Repos\Interior\InteriorRepo\Interior\bin\Debug\netcoreapp2.1\Interior.runtimeconfig.dev.json
+E:\Repos\Interior\InteriorRepo\Interior\bin\Debug\netcoreapp2.1\Interior.dll
+E:\Repos\Interior\InteriorRepo\Interior\bin\Debug\netcoreapp2.1\Interior.pdb
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.csprojAssemblyReference.cache
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.RazorAssemblyInfo.cache
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.RazorAssemblyInfo.cs
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.AssemblyInfoInputs.cache
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.AssemblyInfo.cs
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.RazorTargetAssemblyInfo.cache
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.dll
+E:\Repos\Interior\InteriorRepo\Interior\obj\Debug\netcoreapp2.1\Interior.pdb
